@@ -49,7 +49,7 @@ class dehaze_train_dataset(Dataset):
         self.file_len = len(self.list_train)
 
     def __getitem__(self, index):
-        name = self.list_train[index]
+        name = self.list_train[0]
         if self.tag in ['LHID', 'DHID']:
             test_name = name.split('_')[0]+'.jpg'
         elif self.tag in ['indoor']:
