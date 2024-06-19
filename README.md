@@ -13,12 +13,12 @@
 
 <p align="center">
   <a href="https://github.com/thislzm/UME-Net/">
-    <img src="images/UMB.png" alt="Logo" width="800" height="500">
+    <img src="images/UMB.png" alt="Logo" width="1000" height="540">
   </a>
   <h3 align="center">Unsupervised Multibranch Dehazing Networks</h3>
   <p align="center">
   <a href="https://github.com/thislzm/UME-Net/">
-    <img src="images/HFEM.png" alt="Logo" width="1000" height="640">
+    <img src="images/HFEM.png" alt="Logo" width="1000" height="720">
   </a>
   </p>
   <h3 align="center">Hihg-Frequency Enhanced module</h3>
