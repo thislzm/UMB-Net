@@ -12,28 +12,28 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/thislzm/PSMB-Net/">
+  <a href="https://github.com/thislzm/UME-Net/">
     <img src="images/UMB.png" alt="Logo" width="800" height="500">
   </a>
   <h3 align="center">Unsupervised Multibranch Dehazing Networks</h3>
   <p align="center">
-  <a href="https://github.com/thislzm/PSMB-Net/">
+  <a href="https://github.com/thislzm/UME-Net/">
     <img src="images/HFEM.png" alt="Logo" width="1000" height="640">
   </a>
   </p>
-  <h3 align="center">Hihg-Frequency Components Enhanced module</h3>
+  <h3 align="center">Hihg-Frequency Enhanced module</h3>
 
   <p align="center">
     Partial Siamese Networks with Multiscale Bi-codec Information Fusion Module for Remote Sensing Single Image Dehazing
     <br />
-    <a href="https://github.com/thislzm/PSMB-Net"><strong>Exploring the documentation for PSMB-Net »</strong></a>
+    <a href="https://github.com/thislzm/UME-Net"><strong>Exploring the documentation for UME-Net »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/thislzm/PSMB-Net">Check Demo</a>
+    <a href="https://github.com/thislzm/UME-Net">Check Demo</a>
     ·
-    <a href="https://github.com/thislzm/PSMB-Net/issues">Report Bug</a>
+    <a href="https://github.com/thislzm/UME-Net/issues">Report Bug</a>
     ·
-    <a href="https://github.com/thislzm/PSMB-Net/issues">Pull Request</a>
+    <a href="https://github.com/thislzm/UME-Net/issues">Pull Request</a>
   </p>
 
 </p>
@@ -66,7 +66,7 @@
 
 ```
 ├── README.md
-├── /PSMB-Net/
+├── /UME-Net/
 |  ├── train.py
 |  ├── test.py
 |  ├── Model.py
@@ -112,7 +112,7 @@ python test.py --gpus 0 --type 5
 ### Clone the repo
 
 ```sh
-git clone https://github.com/thislzm/PSMB-Net.git
+git clone https://github.com/thislzm/UME-Net.git
 ```
 
 ### Qualitative Results
@@ -147,7 +147,7 @@ git clone https://github.com/thislzm/PSMB-Net.git
 
 ### Copyright
 
-The project has been licensed by MIT. Please refer to for details. [LICENSE.txt](https://github.com/thislzm/PSMB-Net/LICENSE.txt)
+The project has been licensed by MIT. Please refer to for details. [LICENSE.txt](https://github.com/thislzm/UME-Net/LICENSE.txt)
 
 ### Thanks
 
@@ -159,16 +159,16 @@ The project has been licensed by MIT. Please refer to for details. [LICENSE.txt]
 
 
 <!-- links -->
-[your-project-path]:thislzm/PSMB-Net
-[contributors-shield]: https://img.shields.io/github/contributors/thislzm/PSMB-Net.svg?style=flat-square
-[contributors-url]: https://github.com/thislzm/PSMB-Net/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/thislzm/PSMB-Net.svg?style=flat-square
-[forks-url]: https://github.com/thislzm/PSMB-Net/network/members
-[stars-shield]: https://img.shields.io/github/stars/thislzm/PSMB-Net.svg?style=flat-square
-[stars-url]: https://github.com/thislzm/PSMB-Net/stargazers
-[issues-shield]: https://img.shields.io/github/issues/thislzm/PSMB-Net.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/thislzm/PSMB-Net.svg
-[license-shield]: https://img.shields.io/github/license/thislzm/PSMB-Net.svg?style=flat-square
-[license-url]: https://github.com/thislzm/PSMB-Net/blob/master/LICENSE.txt
+[your-project-path]:thislzm/UME-Net
+[contributors-shield]: https://img.shields.io/github/contributors/thislzm/UME-Net.svg?style=flat-square
+[contributors-url]: https://github.com/thislzm/UME-Net/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/thislzm/UME-Net.svg?style=flat-square
+[forks-url]: https://github.com/thislzm/UME-Net/network/members
+[stars-shield]: https://img.shields.io/github/stars/thislzm/UME-Net.svg?style=flat-square
+[stars-url]: https://github.com/thislzm/UME-Net/stargazers
+[issues-shield]: https://img.shields.io/github/issues/thislzm/UME-Net.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/thislzm/UME-Net.svg
+[license-shield]: https://img.shields.io/github/license/thislzm/UME-Net.svg?style=flat-square
+[license-url]: https://github.com/thislzm/UME-Net/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/shaojintian
